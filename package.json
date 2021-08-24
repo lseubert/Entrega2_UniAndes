@@ -1,0 +1,31 @@
+{
+    "name": "entrega-2-leon-seubert",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^7.9.0",
+        "eslint-config-airbnb": "^18.2.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-import": "^2.22.0",
+        "eslint-plugin-jsx-a11y": "^6.3.1",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "eslint-plugin-react": "^7.20.6"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "core-js": "^3.8.2",
+        "express": "^4.17.1",
+        "node-html-parser": "^4.1.3",
+        "regenerator-runtime": "^0.13.7"
+    },
+    "engines": {
+        "node": ">= 10.0.0"
+    }
+}
